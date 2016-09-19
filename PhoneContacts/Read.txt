@@ -1,0 +1,2 @@
+Before starting program make sure about right MySQL connection, user and login for database in hibernate 
+second configuration. Default login-root, password-0000. 
